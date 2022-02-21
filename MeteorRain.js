@@ -5,8 +5,7 @@
 /*
 colors
 ------------------------------------
-FgYellow ='\x1b[33m'
-BgBlue = '\x1b[44m'
+FgCyan ='\x1b[36m'
 */
 
 const RESET = '\x1b[0m'
