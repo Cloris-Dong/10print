@@ -1,5 +1,6 @@
 /*
-  MeteorRain: Try to print out characters one after another with a delay in-b/w
+  Meteor Rain:
+    Try to print out characters one after another with a delay in-b/w
 */
 
 const RESET = '\x1b[0m'
