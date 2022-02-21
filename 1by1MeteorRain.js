@@ -1,6 +1,6 @@
-// /*
-//   Try to print out characters one after another with a delay in-b/w
-// */
+/*
+  MeteorRain: Try to print out characters one after another with a delay in-b/w
+*/
 
 const RESET = '\x1b[0m'
 const w = process.stdout.columns
